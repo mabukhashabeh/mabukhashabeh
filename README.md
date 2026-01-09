@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abu Khashabeh</h1>
-<h3 align="center">Technical Lead & Senior Software Engineer | Python, Django, Vue.js | 7+ years full-stack experience | PCEP & PACP Certified</h3>
+<h3 align="center">Technical Lead & Senior Software Engineer | Python, Django, Vue.js | 8+ years full-stack experience | PCEP & PACP Certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabukhashabeh&label=Profile%20views&color=0e75b6&style=flat" alt="mabukhashabeh" /> </p>
 
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Technical Lead and software engineer with 7+ years of full-stack development experience, specializing in Python, Django, and Vue.js. Passionate about building scalable backend systems, leading engineering teams, and driving technical excellence. Currently serving as **Lead Software Engineer and Python Chapter Lead at Sitech**, where I lead full-stack development, coordinate multiple engineering squads, and drive technical strategy across the organization.
+Technical Lead and software engineer with 8+ years of full-stack development experience, specializing in Python, Django, and Vue.js. Passionate about building scalable backend systems, leading engineering teams, and driving technical excellence. Currently serving as **Lead Software Engineer and Python Chapter Lead at Sitech**, where I lead full-stack development, coordinate multiple engineering squads, and drive technical strategy across the organization.
 
 ### What I'm Working On
 
@@ -56,7 +56,7 @@ Leading full-stack development across Vue.js front-end and Django/Python back-en
 ## Technical Expertise
 
 ### Backend Development
-- **Languages:** Python (7+ years), JavaScript, SQL
+- **Languages:** Python (8+ years), JavaScript, SQL
 - **Frameworks:** Django, Django REST Framework, FastAPI, Starlette, Flask
 - **Databases:** PostgreSQL, MySQL, SQLAlchemy
 - **Task Processing:** Celery, Redis, RabbitMQ
